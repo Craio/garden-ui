@@ -1,0 +1,17 @@
+{
+  "name": "garden-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "Personal UI theme for Atom",
+  "keywords": [
+    "ui",
+    "garden",
+    "craio",
+    "theme"
+  ],
+  "repository": "https://github.com/craio/garden-ui",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
